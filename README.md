@@ -8,9 +8,10 @@ the following sub-tasks are your guidance:
     - Next,we identify the top 5 handsets per top 3 handset manufacturer
     - we Make a short interpretation and recommendation to marketing teams
 ● Next we have to Aggregate per user the following information in the column
-    ○ number of xDR sessions
-    ○ Session duration
-    ○ the total download (DL) and upload (UL) data
-    ○ the total data volume (in Bytes) during this session for each application
+
+    -number of xDR sessions
+    -Session duration
+    - the total download (DL) and upload (UL) data
+    -the total data volume (in Bytes) during this session for each application
 
 
