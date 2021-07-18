@@ -8,9 +8,9 @@ st.set_page_config(page_title="tellco Data Analysis", layout="wide")
 
 
 def loadData():
-    print("loading started")
+    print("loading started ")
     dataframe = pd.read_csv("./clean.csv")
-    print("loading completed")
+    print("loading complleted")
     return dataframe
 
 dataframe =  loadData()
