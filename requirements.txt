@@ -1,6 +1,6 @@
 matplotlib==3.4.2
 matplotlib-inline==0.1.2
-numpy==1.21.3
+numpy==1.21.0
 pandas==1.2.5
 plotly==5.1.0
 python-dotenv==0.18.0
