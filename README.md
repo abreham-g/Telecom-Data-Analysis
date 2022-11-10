@@ -17,6 +17,9 @@ the following sub-tasks are your guidance:
 # User Engagement
 
 ● In the current dataset we are expected to track the user’s engagement using the following
+
+
+● Note: cleaned_data.csv is not pushed to remote repo since the size is too to be pushed
 engagement metrics:
 
      -sessions frequency
