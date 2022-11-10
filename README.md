@@ -1,7 +1,7 @@
 # Tellcom-Data-Analysis
 # User Overview analysis
 For the actual telecom dataset, we are expected to conduct a full User Overview analysis &
-the following sub-tasks are your guidance:
+the following sub-tasks as guidance:
 
     - we Start by identifying the top 10 handsets used by the customers.
     - Then, identifying the top 3 handset manufacturers
